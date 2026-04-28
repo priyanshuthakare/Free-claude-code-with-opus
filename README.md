@@ -26,7 +26,15 @@ npm install -g @anthropic-ai/claude-code
 
 
 ## Claim Credits
-Create an [AgentRounter](https://agentrouter.org/register?aff=6GKO) account and claim the credits.
+
+Create an AgentRouter account to activate platform credits.
+
+- New accounts receive **$150 in credits**
+- Referral rewards may provide additional credits based on platform terms
+- Early users may benefit from higher promotional credit availability
+
+[AgentRouter](https://agentrouter.org/register?aff=6GKO)
+
 > Note: This link contains a referral parameter.
 
 ## Environment Configuration
